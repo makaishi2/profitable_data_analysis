@@ -1,0 +1,10 @@
+REGION    Frequency
+Lisbon    77
+Oporto    47
+Other Region    316
+Total    440
+
+CHANNEL    Frequency
+Horeca    298
+Retail    142
+Total    440

@@ -1,0 +1,39 @@
+id: Bridge's Identifier.
+
+river: River of the bridge.
+{A : Allegheny, M : Monongahela, O : Ohio}
+
+location: Bridge's Location. / 1 - 52
+
+erected: Bridge's construction year. / 1818 - 1986
+{CRAFTS: 1818 - 1866, EMERGING: 1870 - 1889,
+MATURE: 1890 - 1939, MODERN: 1945 - 1986}
+
+purpose: Bridge's purpose.
+{WALK, AQUEDUCT, RR (Railroad), HIGHWAY}
+
+length: Bridge's length / 804-4558
+{SHORT : 804 - 990, MEDIUM : 1000 - 1850, LONG : 2000 - 4558}
+
+Lanes: Bridge's lanes / 1, 2, 4 and 6
+
+clear-g: Vertical clearance requirement was enforced in the design.
+{N: Not Enforced, G: Enforced}
+
+B) Design properties
+t-or-d: The roadway location on the bridge.
+{THROUGH, DECK}
+
+material: Bridge's predominant material.
+{WOOD, IRON, STEEL}
+
+span: Bridge's span.
+{SHORT, MEDIUM, LONG}
+
+rel-l: Relative length of the span to the crossing length.
+{S: Short, S-F: Short-Full, F: Full}
+
+type: Bridge's type.
+{WOOD, SUSPEN (Suspension),
+SIMPLE-T (Simple Truss), ARCH,
+CANTILEV (Cantilever), CONT-T (Continuous Truss)}
