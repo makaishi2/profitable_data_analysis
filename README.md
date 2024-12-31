@@ -8,6 +8,9 @@
 <img src="./images/top-00.png" width="300">
 </div>　
 
+#### Amazonリンク
+[単行本](https://www.amazon.co.jp/dp/4296071009)  <br>
+[Kindle(準備中)]()  
 
 ## 著者メッセージ
 
