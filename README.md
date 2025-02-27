@@ -2,7 +2,7 @@
 
 　当サイトは書籍「ChatGPTで儲かるデータ分析」のサポートサイトです。
 
-　当書籍はOpen AIの有償ライセンスであるChatGPT plusの利用を前提としています。
+　当書籍はOpen AIの有償ライセンスであるChatGPT Plusの利用を前提としています。
 　
 <div align="left">
 <img src="./images/top-00.png" width="300">
